@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
+    "truffle": "^5.11.5",
+    "web3": "^4.2.0"
+  }
+}
