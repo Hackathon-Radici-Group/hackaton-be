@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://unpkg.com/@multiformats/multiaddr-to-uri/dist/index.min.js"></script>
+    <script src="https://unpkg.com/kubo-rpc-client/dist/index.min.js"></script>
+</head>
+<body>
+<script>
+    console.log(MultiformatsMultiaddrToUri.multiaddrToUri("/ip4/192.168.150.219/tcp/5001/http"))
+    KuboRpcClient.create({url: "http://192.168.150.219:5001/api/v0"})
+
+</script>
+
+</body>
+</html>

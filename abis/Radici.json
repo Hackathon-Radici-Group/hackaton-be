@@ -7989,12 +7989,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xb378492D004C6AD956c6107F8AEbEFC00e9c3cBC",
-      "transactionHash": "0x4dc2fe7dab7f3abd996d4dd3452d9538d97e3bb88d58e0e39c70ffc4302a64dc"
+      "address": "0x0E646EC161BF710FbeBe0A4ce8c8A9D65BEc5ee0",
+      "transactionHash": "0x0231ac0904d8acf581cf5607689a46a708d168d5b483a5d7b4846e479e7dcec2"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2023-10-25T14:53:40.798Z",
+  "updatedAt": "2023-10-26T08:04:43.194Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
